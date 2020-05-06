@@ -1,2 +1,3 @@
-# d2-wishlist
+# DIM Wishlist Generator
+
 Destiny 2 Wishlist generator
